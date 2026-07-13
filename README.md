@@ -87,7 +87,7 @@ To support the financial analysis, the following financial metrics were created:
 
 ## 1. Which departments contribute the most to profitability?
 
-![Gross Profit by Department](images/Gross_Profit_by_Department.png)
+![Gross Profit by Department](Gross_Profit_by_Department.png)
 
 ### Findings
 
@@ -100,7 +100,7 @@ To support the financial analysis, the following financial metrics were created:
 
 ## 2. How has gross profitability changed over time?
 
-![Gross Profit Trend](images/Trend_in_Gross_Profitability.png)
+![Gross Profit Trend](Trend_in_Gross_Profitability.png)
 
 ### Findings
 
@@ -113,7 +113,7 @@ To support the financial analysis, the following financial metrics were created:
 
 ## 3. Are all branches performing equally, or are some branches outperforming others?
 
-![Branch Performance](images/Branch_Gross_Loss.png)
+![Branch Performance](Branch_Gross_Loss.png)
 
 ### Findings
 
@@ -124,7 +124,7 @@ To support the financial analysis, the following financial metrics were created:
 
 ## 4. Who are the company's most valuable customers based on revenue contribution?
 
-![Customer Revenue Distribution](images/Customer_Revenue_Distribution.png)
+![Customer Revenue Distribution](Customer_Revenue_Distribution.png)
 
 ### Findings
 
@@ -136,7 +136,7 @@ To support the financial analysis, the following financial metrics were created:
 
 ## 5. How is procurement spending distributed across vendors?
 
-![Vendor Supply Cost](images/Vendor_Supply_Cost.png)
+![Vendor Supply Cost](Vendor_Supply_Cost.png)
 
 ### Findings
 
